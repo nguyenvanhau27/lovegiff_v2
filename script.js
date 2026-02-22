@@ -61,16 +61,32 @@ em đã trở thành điều dễ thương nhất
 trong cuộc sống của anh.
 
 Có em, anh thấy bình yên hơn.
-Có em, anh thấy ngày nào cũng đáng yêu.
+Có em, anh thấy ngày nào cũng đáng yêu hơn một chút.
+Kiểu như chỉ cần nghĩ tới em thôi
+là mọi thứ trong ngày cũng nhẹ lại.
 
 Valentine này anh không có gì quá lớn,
 chỉ có một trái tim rất thật…
+và một món quà nhỏ anh mới làm sáng nay,
+mong là nhìn thấy nó bé sẽ vui hơn một chút.
 
-và một lời hứa:
+Anh biết có lúc anh làm bé buồn.
+Và anh thật sự không thích cảm giác đó chút nào.
+Nếu có điều gì khiến công chúa không vui,
+cho anh iu xin lỗi nha 🥺
 
-Công chúa của anh sẽ luôn được yêu thương 💖
+Anh không giỏi nói những lời hoa mỹ,
+nhưng anh luôn nghiêm túc với tình cảm của mình.
+Dù Valentine đã qua,
+thì tình cảm anh dành cho Cục Zàng
+vẫn luôn là trọn vẹn, không bớt đi miếng nào đâu.
 
-Happy Valentine, my love.
+Công chúa tha lỗi cho anh iu nhó,
+để anh còn được tiếp tục làm nhiệm vụ
+“người yêu dễ thương nhất của bé” nữa chứ 😌💖
+
+Happy Valentine muộn một chút,
+nhưng yêu thì vẫn đúng giờ mỗi ngày.
 `;
 
 let i = 0;
